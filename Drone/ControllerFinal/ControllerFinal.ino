@@ -1,3 +1,4 @@
+// The structure was inspired form https://www.brokking.net/ymfc-al_main.html
 #include "ESCManager.h"
 #include "RXManager.h"
 #include "Utils.h"
